@@ -1,0 +1,62 @@
+[
+    {
+        "titulo": "Disco 1",
+        "descricao": "Descrição do Disco 1",
+        "local": "Local 1",
+        "faixas": 10
+    },
+    {
+        "titulo": "Disco 2",
+        "descricao": "Descrição do Disco 2",
+        "local": "Local 2",
+        "faixas": 12
+    },
+    {
+        "titulo": "Disco 3",
+        "descricao": "Descrição do Disco 3",
+        "local": "Local 3",
+        "faixas": 8
+    },
+    {
+        "titulo": "Disco 4",
+        "descricao": "Descrição do Disco 4",
+        "local": "Local 4",
+        "faixas": 15
+    },
+    {
+        "titulo": "Disco 5",
+        "descricao": "Descrição do Disco 5",
+        "local": "Local 5",
+        "faixas": 9
+    },
+    {
+        "titulo": "Disco 6",
+        "descricao": "Descrição do Disco 6",
+        "local": "Local 6",
+        "faixas": 11
+    },
+    {
+        "titulo": "Disco 7",
+        "descricao": "Descrição do Disco 7",
+        "local": "Local 7",
+        "faixas": 13
+    },
+    {
+        "titulo": "Disco 8",
+        "descricao": "Descrição do Disco 8",
+        "local": "Local 8",
+        "faixas": 7
+    },
+    {
+        "titulo": "Disco 9",
+        "descricao": "Descrição do Disco 9",
+        "local": "Local 9",
+        "faixas": 14
+    },
+    {
+        "titulo": "Disco 10",
+        "descricao": "Descrição do Disco 10",
+        "local": "Local 10",
+        "faixas": 10
+    }
+]
